@@ -1,10 +1,17 @@
 {
-	"__role__": "links",
-	"links": [{
-		"collection": "Page",
-		"id": "second"
-	}, {
-		"collection": "Page",
-		"id": "third"
-	}]
+  "__role__": "links",
+  "links": [
+    {
+      "collection": "Page",
+      "id": "second"
+    },
+    {
+      "collection": "Page",
+      "id": "third"
+    },
+    {
+      "collection": "Page",
+      "id": "first"
+    }
+  ]
 }
