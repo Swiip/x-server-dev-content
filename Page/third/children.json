@@ -2,7 +2,7 @@
   "__role__": "links",
   "links": [
     {
-      "type": "Page",
+      "collection": "Page",
       "id": "second"
     }
   ]
