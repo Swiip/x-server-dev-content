@@ -2,12 +2,12 @@
   "__role__": "links",
   "links": [
     {
-      "__type__": "Component",
-      "__id__": "second"
+      "collection": "Component",
+      "id": "second"
     },
     {
-      "__type__": "Component",
-      "__id__": "third"
+      "collection": "Component",
+      "id": "third"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "__role__": "links",
   "links": [
     {
-      "__type__": "Content",
-      "__id__": "second"
+      "collection": "Content",
+      "id": "first"
     }
   ]
 }
