@@ -1,7 +1,7 @@
 {
-	"__role__": "link",
-	"link": {
-		"collection": "Component",
-		"id": "third"
-	}
+  "__role__": "link",
+  "link": {
+    "type": "Component",
+    "id": "second"
+  }
 }
