@@ -1,1 +1,7 @@
-"first"
+{
+	"__role__": "link",
+	"link": {
+		"collection": "components",
+		"id": "first"
+	}
+}

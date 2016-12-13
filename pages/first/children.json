@@ -1,4 +1,7 @@
-[
-	"second",
-	"third"
-]
+{
+	"__role__": "links",
+	"links": {
+		"collection": "pages",
+		"ids": ["second", "third"]
+	}
+}
